@@ -1,0 +1,87 @@
+,header,content
+0,JOHN-04-09,"tasks todo:
+1) user history for buttons on users page
+2) check buttons on users page
+3) figure out resend option to email and on admincreateuser
+4) add button to fully delete user on dev
+
+files needed:
+extranet/
+users
+
+add history to all above
+
+ajax/
+users-deleteuser
+users-cognitoresendinvite
+users-disableuser
+
+
+"
+1, AWS Serveless Application Model," AWS SAM:
+serverless application is a combination of lambda functions, event sources and other resources that work together
+"
+2,WORK-SUMMARY-15-09,"|| Meetings: THURSDAY -> 8:30, FRIDAY -> 9:00
+
+|X| M.Norton -> optimize
+|| new header, no pages under 'why choose us'
+
+|| MySQL Aurora DB (SQL instance)
+
+|| Thursday meeting: Move DNS to route53 from static site.
+
+|| Moving php to ec2 instance on AWS
+
+|X| AWS IAM roles and permissions
+
+|| Foot-prints ready
+
+|| Abigail holiday
+
+
+
+
+"
+3, Server vs Serverless,"Serverless = mix of 3rd party services, event-driven and counting on cloud-hosted remodte procedure calls - Faas (Functions as a service)
+
+3 different cloud vendors:
+- Iaas (infrastructure as a service) => veritual machines, servers, storage, perating systems and networks
+- Paas (Platform as a service) -> utilized for software development, softyware testiung and software maintenacne. Unlike Iaas, Paas denoted DBMS, BI services etc (otherwise its the same).
+- Saas (software as a service) -> makes users connect to applications through the internet on a subsciption basis
+
+Serverless Framework - Javascript, Python, Golang
+Apex - Javascript
+Gordon - Javascript
+ClaudiaJS - Javascript
+Sparta - Golang
+
+Pros:
+Pricing as based on traffic
+Reduced Maintenance
+Scalability
+Faster Delivery
+Easier to set up different environments
+Security
+
+Cons:
+vendor-operated environemt
+"
+4, Peronsal TODO,"|| spend 20 mins, 3-5yrs for someone you care for, 3-5yrs for yourself, 3-5yrs for yourself if changes not omplemented, reasons as to why failed life scenario is viable.
+|| reinforcement learning tic tak toe python
+|| jupyter notebook to explain neural networks
+|| circadian structure to habits and behaviour
+|| things I should be doing from step 1
+|| CLEAN: break into many parts, physical and virtual
+||
+||
+"
+5, TODO 28-09,"Before leaving backtrack:
+- serverless
+- write up of all aws changes
+- auditing: user history, cloudwatch, cloudtrail
+- 
+"
+6, , 
+7, , 
+8, , 
+9, , 

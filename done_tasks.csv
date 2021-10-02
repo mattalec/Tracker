@@ -1,0 +1,45 @@
+,header,content
+0,JOHN-04-09,"tasks todo:
+1) user history for buttons on users page
+2) check buttons on users page
+3) figure out resend option to email and on admincreateuser
+4) add button to fully delete user on dev
+
+files needed:
+extranet/
+users
+
+add history to all above
+
+ajax/
+users-deleteuser
+users-cognitoresendinvite
+users-disableuser
+
+
+"
+1, TO ASK CHRIS,"- LOGOUT
+- PICTURES ON EMAIL
+- 
+"
+2,WORK-SUMMARY-15-09,"Meetings: THURSDAY -> 8:30, FRIDAY -> 9:00
+
+M.Norton -> optimize
+
+MySQL Aurora DB (SQL instance)
+
+Thursday meeting: Move DNS to route53 from static site.
+
+Moving php to ec2 instance on AWS
+"
+3, , 
+4, , 
+5, , 
+6, , 
+7, , 
+8, , 
+9, , 
+1, TO ASK CHRIS,"- LOGOUT
+- PICTURES ON EMAIL
+- 
+"
